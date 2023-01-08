@@ -5,3 +5,12 @@ At 1st we create csv file containing name of video and their subfolders. Then we
 Then we create flask app containing resnet model and integrate it with our flutter application. To run flask application you need to create account of ngrok. After creating account use you authtoken and paste below line in your code 
 
 !ngrok authtoken 'write your authtoken here'
+
+# Video Recording Flutter Application
+Link:
+
+https://github.com/abdulaleem2000/App-for-recording-ppg-signals
+
+# Flutter application for verification
+Link:
+https://github.com/abdulaleem2000/App-for-biomentric-verification-
