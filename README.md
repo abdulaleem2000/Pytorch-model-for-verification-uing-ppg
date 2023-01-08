@@ -8,7 +8,6 @@ Then we create flask app containing resnet model and integrate it with our flutt
 
 # Video Recording Flutter Application
 Link:
-
 https://github.com/abdulaleem2000/App-for-recording-ppg-signals
 
 # Flutter application for verification
